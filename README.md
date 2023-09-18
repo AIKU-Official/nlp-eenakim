@@ -37,8 +37,8 @@ Track 2 - 멜론 Top 50 스테디셀러 (락/발라드/댄스/트로트) 장르�
 
 # ⭐ Models used
 ---
-Track 1 - [SKT-AI/KoBART] (https://github.com/SKT-AI/KoBART)
-Track 2 - [SKT-AI/KoGPT2] (https://github.com/SKT-AI/KoGPT2)
+Track 1 - [SKT-AI/KoBART] (https://github.com/SKT-AI/KoBART/)
+Track 2 - [SKT-AI/KoGPT2] (https://github.com/SKT-AI/KoGPT2/)
 
 # ⭐ Train Epochs
 ---
